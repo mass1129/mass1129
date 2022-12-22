@@ -5,7 +5,7 @@
   <br>
   <a href="https://github.com/mass1129/DeadRising" ><img src="https://img.shields.io/badge/Github-DeadRising-blue?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/mass1129/DeadRising"></a>
   <br>
-  <a href="https://github.com/mass1129/EVOLVE" ><img src="https://img.shields.io/badge/Github-DeadRising-green?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/mass1129/EVOLVE"></a>
+  <a href="https://github.com/mass1129/EVOLVE" ><img src="https://img.shields.io/badge/Github-EVOLVE-green?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/mass1129/EVOLVE"></a>
 
 
 
