@@ -26,6 +26,7 @@ class mass1129{
 - 2021\. 12 ~ 2022. 03 [건설기술교육원](https://www.kicte.or.kr/portal/index/mainInitAction.do)  
   - 건축BIM과정  
   - 🏆 개인 성적 우수상(2등)  
+  - TwinMotion과 PremierePro를 활용한 [동영상](https://youtu.be/w3Qg7fNvgkI)(수상 1등 공신) 제작    
   
 
 ## 🎮 My projects   
