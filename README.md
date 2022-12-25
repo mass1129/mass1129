@@ -6,13 +6,13 @@ class mass1129{
   currentlyStudying = [ "정보처리기사(22.12.18~)"];
   code = [C#];
   technologies = {
+    tool = [Unity, VisualStudio];  
+    server = [HTTP, Photon];  
+    api = [RESTfulAPI];  
+    enviroment = [Window, Android];  
     framework = [.Net FrameWork];
-    server = [HTTP, Photon];
-    api = [RESTfulAPI];
-    tool = [Unity, VisualStudio];
-    enviroment = [Window, Android];
     etc = [Notion, PremierePro, Git, Miro];
-    }
+    };
 }
 ```
 ## 🌱 Profile  
