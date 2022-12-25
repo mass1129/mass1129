@@ -15,9 +15,9 @@ class mass1129{
     }
 }
 ```
-## 🗂 Personal History
+## 🌱 Profile  
 
-### Education
+### 📖 Education
 
 - 2022\. 05 ~ 2022. 12 [메타버스 아카데미](https://mtvs.kr)  
   - XR 1기  
@@ -28,7 +28,7 @@ class mass1129{
   - 🏆 개인 성적 우수상(2등)  
   
 
-## 💻 My projects   
+## 🎮 My projects   
  <br>   
     <a href="https://github.com/mass1129/RETAKE" ><img src="https://img.shields.io/badge/Github-Retake-red?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/mass1129/RETAKE"></a>  
   <br>
