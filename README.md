@@ -36,8 +36,6 @@ class mass1129{
   <br>
     <a href="https://github.com/mass1129/DeadRising" ><img src="https://img.shields.io/badge/Github-Rising-blue?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/mass1129/DeadRising"></a>
   <br>
-    <a href="https://github.com/mass1129/EVOLVE" ><img src="https://img.shields.io/badge/Github-EVOLVE-green?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/mass1129/EVOLVE"></a>
-  <br>
     <a href="https://github.com/mass1129/MTVS_Nebula" ><img src="https://img.shields.io/badge/Github-Nebula-orange?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/mass1129/MTVS_Nebula"></a>
 
 
