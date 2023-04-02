@@ -3,7 +3,6 @@
 ## 👋 &nbsp;유니티 XR 개발자 김혜성입니다. 👋  
 ```C#
 class mass1129{
-  currentlyOn = null;
   currentlyStudying = [ "정보처리기사(22.12.18~)"];
   code = [C#];
   technologies = {
