@@ -15,6 +15,7 @@ class mass1129{
     };
 }
 ```
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mass413)](https://solved.ac/mass413)
 ## 🌱 Profile  
 
 ### 📖 Education
