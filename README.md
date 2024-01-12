@@ -1,20 +1,6 @@
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmass1129&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
 ## 👋 &nbsp;유니티 XR 개발자 김혜성입니다. 👋  
-```C#
-class mass1129{
-  currentlyStudying = [ "정보처리기사(22.12.18~)"];
-  code = [C#];
-  technologies = {
-    tool = [Unity, VisualStudio];  
-    server = [HTTP, Photon];  
-    api = [RESTfulAPI];  
-    enviroment = [Window, Android];  
-    framework = [.Net FrameWork];
-    etc = [Notion, PremierePro, Git, Miro];
-    };
-}
-```
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mass413)](https://solved.ac/mass413)
 ## 🌱 Profile  
 
